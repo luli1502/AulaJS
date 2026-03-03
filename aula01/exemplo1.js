@@ -14,3 +14,5 @@ document.write("A soma dos numeros é " + resultado + "<br>");
 
 resultado = Number(numero1) - Number(numero2);
 document.write("A diferença entre os numeros é " + resultado + "<br>");
+
+resultado = Number(numero1) 
